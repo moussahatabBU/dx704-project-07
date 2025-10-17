@@ -1,0 +1,2 @@
+I did not discuss this project with anyone. No AI was used. I used the scipy.linalg method solve_discrete_are based off the topic this week and from web searching more online about this topic
+I found that this function can be used for solving problems similar to the one presented to us in this weeks project. Here is the documentation for it: https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve_discrete_are.html 
